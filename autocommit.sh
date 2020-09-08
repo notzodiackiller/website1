@@ -1,4 +1,5 @@
 
-mkdir -p /Users/elaineyao/Desktop/Projects/website1/try
-echo f you
+git add .
+git commit -m "v$(date)"
+git push origin master
 
